@@ -1,51 +1,36 @@
-[04:13:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:13:34] [ServerMain/WARN]: Missing data pack fabric
-[04:13:34] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
-[04:13:34] [ServerMain/WARN]: Missing data pack lunar
-[04:13:37] [ServerMain/INFO]: Loaded 1290 recipes
-[04:13:37] [ServerMain/INFO]: Loaded 1399 advancements
-[04:13:38] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:13:38] [Server thread/INFO]: Loading properties
-[04:13:38] [Server thread/INFO]: Default game type: SURVIVAL
-[04:13:38] [Server thread/INFO]: Generating keypair
-[04:13:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:13:38] [Server thread/INFO]: Using epoll channel type
-[04:13:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:13:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:13:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:13:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:13:38] [Server thread/INFO]: Preparing level "world"
-[04:13:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:13:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:13:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:13:46] [Server thread/INFO]: Time elapsed: 776 ms
-[04:13:46] [Server thread/INFO]: Done (7.738s)! For help, type "help"
-[04:14:02] [Server thread/INFO]: CevITO69[/100.75.127.87:56401] logged in with entity id 35 at (45.5, 74.0, -136.5)
-[04:14:02] [Server thread/INFO]: CevITO69 joined the game
-[04:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[04:14:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:14:39] [Server thread/INFO]: <--[HERE]
-[04:14:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:14:41] [Server thread/INFO]: <--[HERE]
-[04:14:47] [Server thread/INFO]: Nothing changed. The player already is an operator
-[04:15:02] [Server thread/INFO]: [CevITO69: Set own game mode to Creative Mode]
-[04:15:04] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[04:18:02] [Server thread/INFO]: CevITO69 has made the advancement [Diamonds!]
-[04:19:34] [Server thread/WARN]: CevITO69 moved too quickly! 8.094119269110962,3.4959870982234804,-5.1426934507494195
-[04:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2707ms or 54 ticks behind
-[04:19:43] [Server thread/WARN]: CevITO69 moved too quickly! 9.394366842033463,0.623264386218267,3.9408405929602424
-[04:19:51] [Server thread/WARN]: CevITO69 moved too quickly! 9.855236239482451,-0.9893499858739716,2.022514126425179
-[04:23:52] [Server thread/INFO]: CevITO69 has made the advancement [Sweet Dreams]
-[04:24:51] [Server thread/WARN]: CevITO69 moved too quickly! 8.848785872461349,1.4199999868869781,5.182010083389571
-[04:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
-[04:27:09] [Server thread/INFO]: biviri[/100.115.59.102:58499] logged in with entity id 7654 at (56.5, 73.0, -134.5)
-[04:27:09] [Server thread/INFO]: biviri joined the game
-[04:27:52] [Server thread/INFO]: [CevITO69: Set own game mode to Spectator Mode]
-[04:28:00] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[04:28:56] [Server thread/INFO]: biviri has made the advancement [Stone Age]
-[04:29:05] [Server thread/INFO]: biviri has made the advancement [Getting an Upgrade]
-[04:29:43] [Server thread/INFO]: CevITO69 has made the advancement [Stone Age]
-[04:31:03] [Server thread/INFO]: CevITO69 has made the advancement [Getting an Upgrade]
-[04:32:37] [Server thread/INFO]: CoriHB[/100.118.198.84:54341] logged in with entity id 11811 at (47.5, 75.0, -132.5)
-[04:32:37] [Server thread/INFO]: CoriHB joined the game
-[04:32:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-134}
+[04:49:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:49:52] [ServerMain/INFO]: Loaded 1290 recipes
+[04:49:52] [ServerMain/INFO]: Loaded 1399 advancements
+[04:49:53] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:49:53] [Server thread/INFO]: Loading properties
+[04:49:53] [Server thread/INFO]: Default game type: SURVIVAL
+[04:49:53] [Server thread/INFO]: Generating keypair
+[04:49:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:49:53] [Server thread/INFO]: Using epoll channel type
+[04:49:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:49:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:49:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:49:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:49:53] [Server thread/INFO]: Preparing level "world"
+[04:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:50:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:50:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:50:03] [Server thread/INFO]: Time elapsed: 687 ms
+[04:50:03] [Server thread/INFO]: Done (9.535s)! For help, type "help"
+[04:50:03] [Server thread/INFO]: biviri (/100.115.59.102:59404) lost connection: Disconnected
+[04:50:03] [Server thread/INFO]: CoriHB (/100.118.198.84:55040) lost connection: Disconnected
+[04:50:07] [Server thread/INFO]: CevITO69[/100.75.127.87:58082] logged in with entity id 54 at (707.5558712040886, 45.0, 767.3882608354604)
+[04:50:07] [Server thread/INFO]: CevITO69 joined the game
+[04:50:08] [Server thread/INFO]: CoriHB[/100.118.198.84:55041] logged in with entity id 55 at (952.8014434314192, 79.0, 317.69999998807907)
+[04:50:08] [Server thread/INFO]: CoriHB joined the game
+[04:50:09] [Server thread/INFO]: biviri[/100.115.59.102:59447] logged in with entity id 206 at (117.88113669212414, 60.68712293005369, -104.97151143835475)
+[04:50:09] [Server thread/INFO]: biviri joined the game
+[04:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[04:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[04:50:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[04:53:02] [Server thread/WARN]: biviri moved too quickly! 9.882091780940641,-1.003967839911212,-2.4654586394586033
+[04:53:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1144, y=64, z=-183} jd{x=1144, y=62, z=-183}
+[04:53:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1144, y=64, z=-183} jd{x=1144, y=62, z=-183}
+[04:53:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1145, y=64, z=-183} jd{x=1146, y=62, z=-184}
+[04:53:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1145, y=64, z=-183} jd{x=1146, y=62, z=-184}
+[04:57:13] [Server thread/INFO]: CoriHB has made the advancement [Suit Up]
