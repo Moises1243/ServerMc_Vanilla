@@ -1,29 +1,74 @@
-[01:09:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:09:03] [ServerMain/INFO]: Loaded 1290 recipes
-[01:09:03] [ServerMain/INFO]: Loaded 1399 advancements
-[01:09:04] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:09:04] [Server thread/INFO]: Loading properties
-[01:09:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:09:04] [Server thread/INFO]: Generating keypair
-[01:09:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:09:04] [Server thread/INFO]: Using epoll channel type
-[01:09:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:09:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:09:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:09:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:09:04] [Server thread/INFO]: Preparing level "world"
-[01:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:09:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:11] [Server thread/INFO]: Time elapsed: 688 ms
-[01:09:11] [Server thread/INFO]: Done (7.602s)! For help, type "help"
-[01:09:18] [Server thread/INFO]: CevITO69[/100.75.127.87:56905] logged in with entity id 13 at (-626.5933331191216, 39.0, -351.7678589871243)
-[01:09:18] [Server thread/INFO]: CevITO69 joined the game
-[01:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[01:09:53] [Server thread/INFO]: biviri[/100.115.59.102:54233] logged in with entity id 302 at (6630.700077870847, 79.0, 3572.987129009189)
-[01:09:53] [Server thread/INFO]: biviri joined the game
-[01:10:48] [Server thread/INFO]: CoriHB[/100.118.198.84:51820] logged in with entity id 1364 at (4709.325447841429, 62.110764312744145, 2650.762639794246)
-[01:10:48] [Server thread/INFO]: CoriHB joined the game
-[01:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[01:15:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6629, y=71, z=3552} jd{x=6628, y=70, z=3552}
-[01:16:44] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! 7.753252587433963,0.0,-6.931595192768327
+[01:29:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:29:37] [ServerMain/INFO]: Loaded 1290 recipes
+[01:29:37] [ServerMain/INFO]: Loaded 1399 advancements
+[01:29:38] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:29:38] [Server thread/INFO]: Loading properties
+[01:29:38] [Server thread/INFO]: Default game type: SURVIVAL
+[01:29:38] [Server thread/INFO]: Generating keypair
+[01:29:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:29:38] [Server thread/INFO]: Using epoll channel type
+[01:29:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:29:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:29:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:29:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:29:38] [Server thread/INFO]: Preparing level "world"
+[01:29:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[01:29:42] [Server thread/INFO]: Time elapsed: 591 ms
+[01:29:42] [Server thread/INFO]: Done (3.489s)! For help, type "help"
+[01:29:52] [Server thread/INFO]: CevITO69[/100.75.127.87:62603] logged in with entity id 13 at (723.130656771948, -54.0, 664.9100217507629)
+[01:29:52] [Server thread/INFO]: CevITO69 joined the game
+[01:29:56] [Server thread/INFO]: CoriHB[/100.118.198.84:52001] logged in with entity id 248 at (6447.000336222292, 62.11076431274415, 335.4915990666402)
+[01:29:56] [Server thread/INFO]: CoriHB joined the game
+[01:29:59] [Server thread/INFO]: biviri[/100.115.59.102:54892] logged in with entity id 392 at (6330.699834202758, 69.00133597911214, 3488.666279164104)
+[01:29:59] [Server thread/INFO]: biviri joined the game
+[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7093748854085788,0.0,-10.375776126259192
+[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7366585348481749,0.0,-10.774844438824553
+[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7639421842886804,0.0,-11.173912751390285
+[01:34:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6667, y=72, z=3138} jd{x=6667, y=70, z=3138}
+[01:39:48] [Server thread/INFO]: biviri has made the advancement [Ice Bucket Challenge]
+[01:42:11] [Server thread/INFO]: CoriHB lost connection: Disconnected
+[01:42:11] [Server thread/INFO]: CoriHB left the game
+[01:42:38] [Server thread/INFO]: Villager cmk['Armorer'/228, l='ServerLevel[world]', x=587.70, y=66.00, z=818.52] died, message: 'Armorer was slain by Husk'
+[01:44:39] [Server thread/INFO]: CoriHB[/100.118.198.84:52107] logged in with entity id 19418 at (5430.808932923257, 62.11076431274414, -328.93177050508154)
+[01:44:39] [Server thread/INFO]: CoriHB joined the game
+[01:48:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6531, y=72, z=3160} jd{x=6532, y=72, z=3159}
+[01:50:23] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[01:54:00] [Server thread/INFO]: biviri lost connection: Disconnected
+[01:54:00] [Server thread/INFO]: biviri left the game
+[01:54:12] [Server thread/INFO]: biviri[/100.115.59.102:55340] logged in with entity id 34098 at (6594.255120102926, 72.0, 3168.2476855514933)
+[01:54:12] [Server thread/INFO]: biviri joined the game
+[01:57:45] [Server thread/INFO]: CevITO69 has made the advancement [Eye Spy]
+[02:01:26] [Server thread/INFO]: CevITO69 has made the advancement [The End?]
+[02:01:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:01:27] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:02:02] [Server thread/INFO]: CoriHB has made the advancement [Fishy Business]
+[02:04:20] [Server thread/INFO]: biviri lost connection: Disconnected
+[02:04:20] [Server thread/INFO]: biviri left the game
+[02:04:58] [Server thread/INFO]: CevITO69 has made the advancement [Take Aim]
+[02:07:53] [Server thread/INFO]: CevITO69 has made the advancement [Free the End]
+[02:08:13] [Server thread/INFO]: [Not Secure] <CoriHB> MATE AL DRAGON
+[02:09:02] [Server thread/INFO]: CevITO69 has reached the goal [The Next Generation]
+[02:10:27] [Server thread/INFO]: CoriHB has made the advancement [Best Friends Forever]
+[02:10:29] [Server thread/INFO]: CevITO69 has made the advancement [Remote Getaway]
+[02:10:35] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.2848429311197833
+[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.4372567044065363
+[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.5188102756897024
+[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.5624479656803487
+[02:11:26] [Server thread/INFO]: Locating element minecraft:end_city took 91 ms
+[02:12:18] [Server thread/INFO]: biviri[/100.115.59.102:55739] logged in with entity id 41665 at (6621.933148342801, 63.5625, 2882.9976575731735)
+[02:12:18] [Server thread/INFO]: biviri joined the game
+[02:16:01] [Server thread/INFO]: biviri was slain by CoriHB
+[02:17:06] [Server thread/INFO]: [CevITO69: Teleported biviri to CoriHB]
+[02:19:32] [Server thread/INFO]: CevITO69 has made the advancement [The City at the End of the Game]
+[02:21:34] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:21:40] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:22:19] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:24:20] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:24:46] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:25:59] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:26:34] [Server thread/INFO]: Locating element minecraft:end_city took 33 ms
+[02:27:26] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:28:04] [Server thread/INFO]: Locating element minecraft:end_city took 17 ms
+[02:29:49] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms

@@ -9,7 +9,11 @@
     "criteria": {
       "minecraft:desert": "2024-12-23 04:32:38 +0000",
       "minecraft:river": "2024-12-23 04:32:55 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-26 01:14:31 +0000",
+      "minecraft:stony_shore": "2024-12-26 02:00:56 +0000",
       "minecraft:dripstone_caves": "2024-12-23 04:34:55 +0000",
+      "minecraft:savanna": "2024-12-26 01:54:42 +0000",
+      "minecraft:plains": "2024-12-26 01:50:24 +0000",
       "minecraft:warm_ocean": "2024-12-23 05:43:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-26 01:14:13 +0000"
     },
@@ -557,8 +561,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-26 02:12:04 +0000",
       "bread": "2024-12-23 04:46:20 +0000",
-      "rotten_flesh": "2024-12-23 04:35:47 +0000"
+      "golden_apple": "2024-12-26 02:01:19 +0000",
+      "rotten_flesh": "2024-12-23 04:35:47 +0000",
+      "suspicious_stew": "2024-12-26 01:32:14 +0000"
     },
     "done": false
   },
@@ -978,9 +985,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-26 01:51:39 +0000",
       "minecraft:skeleton": "2024-12-23 05:01:11 +0000",
       "minecraft:spider": "2024-12-23 05:21:19 +0000",
-      "minecraft:zombie": "2024-12-23 05:20:31 +0000"
+      "minecraft:zombie": "2024-12-23 05:20:31 +0000",
+      "minecraft:drowned": "2024-12-26 01:24:02 +0000"
     },
     "done": false
   },
@@ -1581,6 +1590,96 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-23 05:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 01:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-26 01:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 01:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-26 01:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 01:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 01:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-26 01:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-26 01:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-26 01:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-26 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2024-12-26 02:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-12-26 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 02:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-26 01:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-26 02:21:07 +0000"
     },
     "done": true
   },
