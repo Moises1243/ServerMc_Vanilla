@@ -1,201 +1,37 @@
-[01:29:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:29:37] [ServerMain/INFO]: Loaded 1290 recipes
-[01:29:37] [ServerMain/INFO]: Loaded 1399 advancements
-[01:29:38] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:29:38] [Server thread/INFO]: Loading properties
-[01:29:38] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:38] [Server thread/INFO]: Generating keypair
-[01:29:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:29:38] [Server thread/INFO]: Using epoll channel type
-[01:29:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:29:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:29:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:29:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:29:38] [Server thread/INFO]: Preparing level "world"
-[01:29:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[01:29:42] [Server thread/INFO]: Time elapsed: 591 ms
-[01:29:42] [Server thread/INFO]: Done (3.489s)! For help, type "help"
-[01:29:52] [Server thread/INFO]: CevITO69[/100.75.127.87:62603] logged in with entity id 13 at (723.130656771948, -54.0, 664.9100217507629)
-[01:29:52] [Server thread/INFO]: CevITO69 joined the game
-[01:29:56] [Server thread/INFO]: CoriHB[/100.118.198.84:52001] logged in with entity id 248 at (6447.000336222292, 62.11076431274415, 335.4915990666402)
-[01:29:56] [Server thread/INFO]: CoriHB joined the game
-[01:29:59] [Server thread/INFO]: biviri[/100.115.59.102:54892] logged in with entity id 392 at (6330.699834202758, 69.00133597911214, 3488.666279164104)
-[01:29:59] [Server thread/INFO]: biviri joined the game
-[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7093748854085788,0.0,-10.375776126259192
-[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7366585348481749,0.0,-10.774844438824553
-[01:31:04] [Server thread/WARN]: Dark Oak Boat (vehicle of CoriHB) moved too quickly! -0.7639421842886804,0.0,-11.173912751390285
-[01:34:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6667, y=72, z=3138} jd{x=6667, y=70, z=3138}
-[01:39:48] [Server thread/INFO]: biviri has made the advancement [Ice Bucket Challenge]
-[01:42:11] [Server thread/INFO]: CoriHB lost connection: Disconnected
-[01:42:11] [Server thread/INFO]: CoriHB left the game
-[01:42:38] [Server thread/INFO]: Villager cmk['Armorer'/228, l='ServerLevel[world]', x=587.70, y=66.00, z=818.52] died, message: 'Armorer was slain by Husk'
-[01:44:39] [Server thread/INFO]: CoriHB[/100.118.198.84:52107] logged in with entity id 19418 at (5430.808932923257, 62.11076431274414, -328.93177050508154)
-[01:44:39] [Server thread/INFO]: CoriHB joined the game
-[01:48:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6531, y=72, z=3160} jd{x=6532, y=72, z=3159}
-[01:50:23] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
-[01:54:00] [Server thread/INFO]: biviri lost connection: Disconnected
-[01:54:00] [Server thread/INFO]: biviri left the game
-[01:54:12] [Server thread/INFO]: biviri[/100.115.59.102:55340] logged in with entity id 34098 at (6594.255120102926, 72.0, 3168.2476855514933)
-[01:54:12] [Server thread/INFO]: biviri joined the game
-[01:57:45] [Server thread/INFO]: CevITO69 has made the advancement [Eye Spy]
-[02:01:26] [Server thread/INFO]: CevITO69 has made the advancement [The End?]
-[02:01:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[02:01:27] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[02:02:02] [Server thread/INFO]: CoriHB has made the advancement [Fishy Business]
-[02:04:20] [Server thread/INFO]: biviri lost connection: Disconnected
-[02:04:20] [Server thread/INFO]: biviri left the game
-[02:04:58] [Server thread/INFO]: CevITO69 has made the advancement [Take Aim]
-[02:07:53] [Server thread/INFO]: CevITO69 has made the advancement [Free the End]
-[02:08:13] [Server thread/INFO]: [Not Secure] <CoriHB> MATE AL DRAGON
-[02:09:02] [Server thread/INFO]: CevITO69 has reached the goal [The Next Generation]
-[02:10:27] [Server thread/INFO]: CoriHB has made the advancement [Best Friends Forever]
-[02:10:29] [Server thread/INFO]: CevITO69 has made the advancement [Remote Getaway]
-[02:10:35] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.2848429311197833
-[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.4372567044065363
-[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.5188102756897024
-[02:10:36] [Server thread/WARN]: Horse (vehicle of CoriHB) moved wrongly! 0.5624479656803487
-[02:11:26] [Server thread/INFO]: Locating element minecraft:end_city took 91 ms
-[02:12:18] [Server thread/INFO]: biviri[/100.115.59.102:55739] logged in with entity id 41665 at (6621.933148342801, 63.5625, 2882.9976575731735)
-[02:12:18] [Server thread/INFO]: biviri joined the game
-[02:16:01] [Server thread/INFO]: biviri was slain by CoriHB
-[02:17:06] [Server thread/INFO]: [CevITO69: Teleported biviri to CoriHB]
-[02:19:32] [Server thread/INFO]: CevITO69 has made the advancement [The City at the End of the Game]
-[02:21:34] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:21:40] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:22:19] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:24:20] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:24:46] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:25:59] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:26:34] [Server thread/INFO]: Locating element minecraft:end_city took 33 ms
-[02:27:26] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:28:04] [Server thread/INFO]: Locating element minecraft:end_city took 17 ms
-[02:29:49] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[02:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6631, y=85, z=3603} jd{x=6632, y=83, z=3603}
-[02:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6631, y=85, z=3603} jd{x=6632, y=83, z=3603}
-[02:36:11] [Server thread/INFO]: Villager cmk['Nitwit'/52975, l='ServerLevel[world]', x=6733.64, y=94.03, z=3643.30] died, message: 'Nitwit was slain by Zombie'
-[02:37:16] [Server thread/INFO]: CevITO69 has made the advancement [Local Brewery]
-[02:37:44] [Server thread/INFO]: CevITO69 has reached the goal [Sky's the Limit]
-[02:40:41] [Server thread/INFO]: CoriHB has made the advancement [A Seedy Place]
-[02:44:11] [Server thread/INFO]: CoriHB has made the advancement [Getting an Upgrade]
-[02:44:43] [Server thread/INFO]: CevITO69 has completed the challenge [Great View From Up Here]
-[02:47:10] [Server thread/INFO]: biviri was slain by CoriHB
-[02:51:09] [Server thread/INFO]: CoriHB has made the advancement [What a Deal!]
-[02:51:14] [Server thread/INFO]: [Not Secure] <biviri> 6563 70 2819
-[02:52:49] [Server thread/INFO]: Villager cmk['Villager'/59422, l='ServerLevel[world]', x=6546.36, y=67.02, z=2901.74] died, message: 'Villager was slain by Zombie'
-[02:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6497, y=72, z=2870} jd{x=6497, y=75, z=2870}
-[03:08:28] [Server thread/INFO]: biviri has made the advancement [Take Aim]
-[03:10:17] [Server thread/INFO]: biviri has made the advancement [Suit Up]
-[03:12:54] [Server thread/WARN]: biviri moved too quickly! -2.567299124774763,0.0,-9.726091951723902
-[03:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
-[03:16:01] [Server thread/INFO]: CoriHB has made the advancement [Cover Me with Diamonds]
-[03:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8713ms or 174 ticks behind
-[03:16:51] [Server thread/WARN]: CoriHB moved too quickly! -9.85297562357755,-0.604424101326714,-2.7168520445793547
-[03:16:51] [Server thread/WARN]: biviri moved too quickly! 1.5258696557029907,2.0,-9.91628013862919
-[03:16:59] [Server thread/WARN]: biviri moved too quickly! -3.3238247845729347,0.9769118908984495,-9.538710587449259
-[03:16:59] [Server thread/WARN]: CoriHB moved too quickly! -10.436628726779418,0.41999998688697815,1.8340215871389773
-[03:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8634ms or 172 ticks behind
-[03:17:24] [Server thread/WARN]: CoriHB moved too quickly! 9.715853769287605,1.0013359791121417,2.996264649560999
-[03:17:24] [Server thread/WARN]: biviri moved too quickly! 7.7005248151963315,0.29520082932221214,6.679624950840207
-[03:17:24] [Server thread/INFO]: [Not Secure] <CevITO69> as
-[03:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
-[03:19:01] [Server thread/WARN]: CevITO69 moved too quickly! -4.940297200902023,-2.83388940466844,16.55754765419306
-[03:19:08] [Server thread/WARN]: CevITO69 moved too quickly! -4.477928705893646,-2.6969142469768883,17.10888766176049
-[03:23:26] [Server thread/INFO]: CoriHB has made the advancement [We Need to Go Deeper]
-[03:32:46] [Server thread/INFO]: biviri has made the advancement [What a Deal!]
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
-[03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=86, y=41, z=60} jd{x=88, y=40, z=62}
-[03:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[03:42:10] [Server thread/INFO]: biviri lost connection: Disconnected
-[03:42:10] [Server thread/INFO]: biviri left the game
-[03:42:18] [Server thread/INFO]: biviri[/100.115.59.102:57365] logged in with entity id 108500 at (6971.648851247969, 71.0, 3247.981840084323)
-[03:42:18] [Server thread/INFO]: biviri joined the game
-[03:44:17] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:47:54] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:48:11] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:48:14] [Server thread/INFO]: CoriHB was shot by biviri
-[03:48:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=73, z=-122}
-[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-125}
-[03:48:19] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:48:20] [Server thread/INFO]: biviri has made the advancement [Cover Me with Diamonds]
-[03:48:27] [Server thread/INFO]: biviri has made the advancement [Diamonds!]
-[03:48:27] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:48:55] [Server thread/INFO]: biviri has made the advancement [Hot Stuff]
-[03:50:00] [Server thread/INFO]: CoriHB was slain by Iron Golem
-[03:50:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-118}
-[03:50:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-117}
-[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-120}
-[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-124}
-[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-127}
-[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-130}
-[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-129}
-[03:50:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-130}
-[03:50:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-130}
-[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=40, y=74, z=-126}
-[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=40, y=74, z=-127}
-[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-127}
-[03:50:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-131}
-[03:50:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-134}
-[03:50:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-139}
-[03:51:00] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
-[03:52:27] [Server thread/INFO]: biviri hit the ground too hard while trying to escape CoriHB
-[03:52:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-132}
-[03:52:44] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:53:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-131}
-[03:54:20] [Server thread/INFO]: [CevITO69: Teleported biviri to CoriHB]
-[04:01:52] [Server thread/INFO]: biviri has reached the goal [Sky's the Limit]
-[04:01:57] [Server thread/INFO]: CoriHB has reached the goal [Sky's the Limit]
-[04:02:15] [Server thread/INFO]: CoriHB was slain by Iron Golem
-[04:02:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-126}
-[04:02:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-125}
-[04:02:24] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
-[04:06:56] [Server thread/INFO]: CoriHB was slain by biviri
-[04:07:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-137}
-[04:07:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-137}
-[04:07:10] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
-[04:08:02] [Server thread/INFO]: CoriHB was slain by biviri
-[04:08:32] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
-[04:15:12] [Server thread/INFO]: CoriHB lost connection: Kicked by an operator
-[04:15:12] [Server thread/INFO]: CoriHB left the game
-[04:15:12] [Server thread/INFO]: [CevITO69: Kicked CoriHB: Kicked by an operator]
-[04:15:12] [Server thread/WARN]: handleDisconnection() called twice
-[04:15:15] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[04:15:15] [Server thread/INFO]: CevITO69 left the game
-[04:15:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@60c5ef4f[id=5aa1dc9a-149a-3210-b5bb-7113cb47e449,name=CoriHB,properties={}] lost connection: Disconnected
-[04:16:06] [Server thread/INFO]: CoriHB[/100.118.198.84:52844] logged in with entity id 139039 at (6622.443372128611, 63.5625, 2882.3556537599625)
-[04:16:06] [Server thread/INFO]: CoriHB joined the game
-[04:17:55] [Server thread/INFO]: Villager cmk['Villager'/132924, l='ServerLevel[world]', x=6558.68, y=52.00, z=2915.85] died, message: 'Villager was slain by Zombie'
-[04:19:42] [Server thread/INFO]: Villager cmk['Villager'/117470, l='ServerLevel[world]', x=6546.56, y=67.00, z=2885.70] died, message: 'Villager was slain by Zombie'
-[04:19:49] [Server thread/INFO]: CoriHB has made the advancement [Take Aim]
-[04:19:56] [Server thread/INFO]: Villager cmk['Villager'/109187, l='ServerLevel[world]', x=6543.87, y=65.00, z=2903.43] died, message: 'Villager was slain by Zombie'
-[04:20:28] [Server thread/INFO]: CoriHB was slain by biviri
-[04:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=72, z=-113}
-[04:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=49, y=72, z=-113}
-[04:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=47, y=72, z=-116}
-[04:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=73, z=-122}
-[04:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-124}
-[04:20:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-140}
-[04:20:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-140}
-[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-138}
-[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=73, z=-140}
-[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-139}
-[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-139}
-[04:20:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=56, y=72, z=-137}
-[04:20:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=56, y=72, z=-138}
-[04:20:50] [Server thread/INFO]: CoriHB lost connection: Disconnected
-[04:20:50] [Server thread/INFO]: CoriHB left the game
-[04:21:32] [Server thread/INFO]: biviri lost connection: Disconnected
-[04:21:32] [Server thread/INFO]: biviri left the game
+[19:35:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:36:01] [ServerMain/INFO]: Loaded 1290 recipes
+[19:36:01] [ServerMain/INFO]: Loaded 1399 advancements
+[19:36:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:36:02] [Server thread/INFO]: Loading properties
+[19:36:02] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:02] [Server thread/INFO]: Generating keypair
+[19:36:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:02] [Server thread/INFO]: Using epoll channel type
+[19:36:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:36:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:36:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:36:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:36:02] [Server thread/INFO]: Preparing level "world"
+[19:36:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:36:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:36:06] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[19:36:06] [Server thread/INFO]: Time elapsed: 596 ms
+[19:36:06] [Server thread/INFO]: Done (3.711s)! For help, type "help"
+[19:38:25] [Server thread/INFO]: CevITO69[/100.75.127.87:54113] logged in with entity id 20 at (6579.5, 69.0, 2854.5)
+[19:38:26] [Server thread/INFO]: CevITO69 joined the game
+[19:41:03] [Server thread/INFO]: biviri[/100.115.59.102:64469] logged in with entity id 1130 at (6587.050444569467, 64.0, 2896.3112581476594)
+[19:41:03] [Server thread/INFO]: biviri joined the game
+[19:45:18] [Server thread/INFO]: biviri lost connection: Disconnected
+[19:45:18] [Server thread/INFO]: biviri left the game
+[19:45:23] [Server thread/INFO]: biviri[/100.115.59.102:64581] logged in with entity id 3891 at (6668.235859481486, 68.0, 2846.7644470094333)
+[19:45:23] [Server thread/INFO]: biviri joined the game
+[19:56:13] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[19:56:13] [Server thread/INFO]: CevITO69 left the game
+[19:56:22] [Server thread/INFO]: CevITO69[/100.75.127.87:55102] logged in with entity id 13695 at (6293.968042517773, 72.0, 3657.5321028423514)
+[19:56:22] [Server thread/INFO]: CevITO69 joined the game
+[20:05:44] [Server thread/INFO]: CevITO69 has made the advancement [Best Friends Forever]
+[20:07:27] [Server thread/INFO]: biviri lost connection: Disconnected
+[20:07:27] [Server thread/INFO]: biviri left the game
+[20:07:32] [Server thread/INFO]: biviri[/100.115.59.102:64972] logged in with entity id 26577 at (6653.814080266628, 109.98721170111676, 3021.3920401518844)
+[20:07:32] [Server thread/INFO]: biviri joined the game
+[20:10:24] [Server thread/INFO]: CevITO69 has made the advancement [The Parrots and the Bats]
