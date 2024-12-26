@@ -2579,6 +2579,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2024-12-26 20:05:44 +0000",
+      "minecraft:red": "2024-12-26 20:09:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2024-12-26 20:10:24 +0000"
@@ -2590,13 +2597,6 @@
       "bred": "2024-12-26 20:10:24 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:ragdoll": "2024-12-26 20:05:44 +0000",
-      "minecraft:red": "2024-12-26 20:09:22 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3953
 }

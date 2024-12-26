@@ -35,3 +35,21 @@
 [20:07:32] [Server thread/INFO]: biviri[/100.115.59.102:64972] logged in with entity id 26577 at (6653.814080266628, 109.98721170111676, 3021.3920401518844)
 [20:07:32] [Server thread/INFO]: biviri joined the game
 [20:10:24] [Server thread/INFO]: CevITO69 has made the advancement [The Parrots and the Bats]
+[20:18:28] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[20:18:28] [Server thread/INFO]: CevITO69 left the game
+[20:21:20] [Server thread/INFO]: CevITO69[/100.75.127.87:56424] logged in with entity id 36689 at (6535.784493322685, 72.0, 2893.5573431973803)
+[20:21:20] [Server thread/INFO]: CevITO69 joined the game
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
+[20:30:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=73, z=332} jd{x=815, y=74, z=332}
+[20:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=72, z=2997}
+[20:34:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=135, z=2997}
