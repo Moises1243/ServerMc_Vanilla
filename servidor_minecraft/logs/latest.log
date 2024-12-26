@@ -118,3 +118,84 @@
 [03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
 [03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=87, y=41, z=62} jd{x=88, y=40, z=62}
 [03:33:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=86, y=41, z=60} jd{x=88, y=40, z=62}
+[03:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03:42:10] [Server thread/INFO]: biviri lost connection: Disconnected
+[03:42:10] [Server thread/INFO]: biviri left the game
+[03:42:18] [Server thread/INFO]: biviri[/100.115.59.102:57365] logged in with entity id 108500 at (6971.648851247969, 71.0, 3247.981840084323)
+[03:42:18] [Server thread/INFO]: biviri joined the game
+[03:44:17] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:47:54] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:48:11] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:48:14] [Server thread/INFO]: CoriHB was shot by biviri
+[03:48:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=73, z=-122}
+[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-125}
+[03:48:19] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:48:20] [Server thread/INFO]: biviri has made the advancement [Cover Me with Diamonds]
+[03:48:27] [Server thread/INFO]: biviri has made the advancement [Diamonds!]
+[03:48:27] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:48:55] [Server thread/INFO]: biviri has made the advancement [Hot Stuff]
+[03:50:00] [Server thread/INFO]: CoriHB was slain by Iron Golem
+[03:50:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-118}
+[03:50:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-117}
+[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=72, z=-120}
+[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-124}
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-127}
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-130}
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-129}
+[03:50:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-130}
+[03:50:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-130}
+[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=40, y=74, z=-126}
+[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=40, y=74, z=-127}
+[03:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-127}
+[03:50:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-131}
+[03:50:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-134}
+[03:50:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-139}
+[03:51:00] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[03:52:27] [Server thread/INFO]: biviri hit the ground too hard while trying to escape CoriHB
+[03:52:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-132}
+[03:52:44] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[03:53:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-131}
+[03:54:20] [Server thread/INFO]: [CevITO69: Teleported biviri to CoriHB]
+[04:01:52] [Server thread/INFO]: biviri has reached the goal [Sky's the Limit]
+[04:01:57] [Server thread/INFO]: CoriHB has reached the goal [Sky's the Limit]
+[04:02:15] [Server thread/INFO]: CoriHB was slain by Iron Golem
+[04:02:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-126}
+[04:02:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-125}
+[04:02:24] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[04:06:56] [Server thread/INFO]: CoriHB was slain by biviri
+[04:07:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-137}
+[04:07:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-137}
+[04:07:10] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[04:08:02] [Server thread/INFO]: CoriHB was slain by biviri
+[04:08:32] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[04:15:12] [Server thread/INFO]: CoriHB lost connection: Kicked by an operator
+[04:15:12] [Server thread/INFO]: CoriHB left the game
+[04:15:12] [Server thread/INFO]: [CevITO69: Kicked CoriHB: Kicked by an operator]
+[04:15:12] [Server thread/WARN]: handleDisconnection() called twice
+[04:15:15] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[04:15:15] [Server thread/INFO]: CevITO69 left the game
+[04:15:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@60c5ef4f[id=5aa1dc9a-149a-3210-b5bb-7113cb47e449,name=CoriHB,properties={}] lost connection: Disconnected
+[04:16:06] [Server thread/INFO]: CoriHB[/100.118.198.84:52844] logged in with entity id 139039 at (6622.443372128611, 63.5625, 2882.3556537599625)
+[04:16:06] [Server thread/INFO]: CoriHB joined the game
+[04:17:55] [Server thread/INFO]: Villager cmk['Villager'/132924, l='ServerLevel[world]', x=6558.68, y=52.00, z=2915.85] died, message: 'Villager was slain by Zombie'
+[04:19:42] [Server thread/INFO]: Villager cmk['Villager'/117470, l='ServerLevel[world]', x=6546.56, y=67.00, z=2885.70] died, message: 'Villager was slain by Zombie'
+[04:19:49] [Server thread/INFO]: CoriHB has made the advancement [Take Aim]
+[04:19:56] [Server thread/INFO]: Villager cmk['Villager'/109187, l='ServerLevel[world]', x=6543.87, y=65.00, z=2903.43] died, message: 'Villager was slain by Zombie'
+[04:20:28] [Server thread/INFO]: CoriHB was slain by biviri
+[04:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=72, z=-113}
+[04:20:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=49, y=72, z=-113}
+[04:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=47, y=72, z=-116}
+[04:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=73, z=-122}
+[04:20:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-124}
+[04:20:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-140}
+[04:20:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-140}
+[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-138}
+[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=52, y=73, z=-140}
+[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=53, y=73, z=-139}
+[04:20:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=54, y=73, z=-139}
+[04:20:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=56, y=72, z=-137}
+[04:20:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=56, y=72, z=-138}
+[04:20:50] [Server thread/INFO]: CoriHB lost connection: Disconnected
+[04:20:50] [Server thread/INFO]: CoriHB left the game
+[04:21:32] [Server thread/INFO]: biviri lost connection: Disconnected
+[04:21:32] [Server thread/INFO]: biviri left the game
