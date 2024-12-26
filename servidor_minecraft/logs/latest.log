@@ -72,3 +72,9 @@
 [02:27:26] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
 [02:28:04] [Server thread/INFO]: Locating element minecraft:end_city took 17 ms
 [02:29:49] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[02:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6631, y=85, z=3603} jd{x=6632, y=83, z=3603}
+[02:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6631, y=85, z=3603} jd{x=6632, y=83, z=3603}
+[02:36:11] [Server thread/INFO]: Villager cmk['Nitwit'/52975, l='ServerLevel[world]', x=6733.64, y=94.03, z=3643.30] died, message: 'Nitwit was slain by Zombie'
+[02:37:16] [Server thread/INFO]: CevITO69 has made the advancement [Local Brewery]
+[02:37:44] [Server thread/INFO]: CevITO69 has reached the goal [Sky's the Limit]
+[02:40:41] [Server thread/INFO]: CoriHB has made the advancement [A Seedy Place]
