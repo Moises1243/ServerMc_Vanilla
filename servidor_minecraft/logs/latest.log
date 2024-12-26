@@ -53,3 +53,15 @@
 [20:30:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=73, z=332} jd{x=815, y=74, z=332}
 [20:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=72, z=2997}
 [20:34:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=135, z=2997}
+[20:59:30] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[20:59:30] [Server thread/INFO]: CevITO69 left the game
+[20:59:42] [Server thread/INFO]: CevITO69[/100.75.127.87:58686] logged in with entity id 58023 at (6362.325671433529, 136.0, 2999.247394723515)
+[20:59:42] [Server thread/INFO]: CevITO69 joined the game
+[21:00:04] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[21:00:04] [Server thread/INFO]: CevITO69 left the game
+[21:00:23] [Server thread/INFO]: CevITO69[/100.75.127.87:58748] logged in with entity id 58353 at (6362.649474621992, 137.0, 2996.192830892798)
+[21:00:23] [Server thread/INFO]: CevITO69 joined the game
+[21:10:59] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[21:10:59] [Server thread/INFO]: CevITO69 left the game
+[21:14:23] [Server thread/INFO]: CevITO69[/100.75.127.87:59375] logged in with entity id 61701 at (6361.826625516721, 156.0, 2997.756620430921)
+[21:14:23] [Server thread/INFO]: CevITO69 joined the game
