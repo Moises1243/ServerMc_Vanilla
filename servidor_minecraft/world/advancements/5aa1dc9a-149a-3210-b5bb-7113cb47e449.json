@@ -565,7 +565,9 @@
       "bread": "2024-12-23 04:46:20 +0000",
       "golden_apple": "2024-12-26 02:01:19 +0000",
       "rotten_flesh": "2024-12-23 04:35:47 +0000",
-      "suspicious_stew": "2024-12-26 01:32:14 +0000"
+      "suspicious_stew": "2024-12-26 01:32:14 +0000",
+      "enchanted_golden_apple": "2024-12-27 04:14:46 +0000",
+      "cooked_beef": "2024-12-27 03:56:27 +0000"
     },
     "done": false
   },
@@ -990,7 +992,8 @@
       "minecraft:spider": "2024-12-23 05:21:19 +0000",
       "minecraft:zombie": "2024-12-23 05:20:31 +0000",
       "minecraft:creeper": "2024-12-26 02:50:41 +0000",
-      "minecraft:drowned": "2024-12-26 01:24:02 +0000"
+      "minecraft:drowned": "2024-12-26 01:24:02 +0000",
+      "minecraft:husk": "2024-12-27 03:41:24 +0000"
     },
     "done": false
   },
@@ -1914,6 +1917,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-27 03:35:31 +0000",
       "minecraft:soul_sand_valley": "2024-12-26 03:23:27 +0000"
     },
     "done": false
@@ -1975,6 +1979,84 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-26 04:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-27 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-27 04:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-27 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-27 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-27 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-27 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-27 03:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-27 03:58:19 +0000"
     },
     "done": true
   },

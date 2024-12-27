@@ -1,107 +1,106 @@
-[19:35:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:36:01] [ServerMain/INFO]: Loaded 1290 recipes
-[19:36:01] [ServerMain/INFO]: Loaded 1399 advancements
-[19:36:02] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:36:02] [Server thread/INFO]: Loading properties
-[19:36:02] [Server thread/INFO]: Default game type: SURVIVAL
-[19:36:02] [Server thread/INFO]: Generating keypair
-[19:36:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:36:02] [Server thread/INFO]: Using epoll channel type
-[19:36:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:36:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:36:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:36:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:36:02] [Server thread/INFO]: Preparing level "world"
-[19:36:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:36:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:36:06] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[19:36:06] [Server thread/INFO]: Time elapsed: 596 ms
-[19:36:06] [Server thread/INFO]: Done (3.711s)! For help, type "help"
-[19:38:25] [Server thread/INFO]: CevITO69[/100.75.127.87:54113] logged in with entity id 20 at (6579.5, 69.0, 2854.5)
-[19:38:26] [Server thread/INFO]: CevITO69 joined the game
-[19:41:03] [Server thread/INFO]: biviri[/100.115.59.102:64469] logged in with entity id 1130 at (6587.050444569467, 64.0, 2896.3112581476594)
-[19:41:03] [Server thread/INFO]: biviri joined the game
-[19:45:18] [Server thread/INFO]: biviri lost connection: Disconnected
-[19:45:18] [Server thread/INFO]: biviri left the game
-[19:45:23] [Server thread/INFO]: biviri[/100.115.59.102:64581] logged in with entity id 3891 at (6668.235859481486, 68.0, 2846.7644470094333)
-[19:45:23] [Server thread/INFO]: biviri joined the game
-[19:56:13] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[19:56:13] [Server thread/INFO]: CevITO69 left the game
-[19:56:22] [Server thread/INFO]: CevITO69[/100.75.127.87:55102] logged in with entity id 13695 at (6293.968042517773, 72.0, 3657.5321028423514)
-[19:56:22] [Server thread/INFO]: CevITO69 joined the game
-[20:05:44] [Server thread/INFO]: CevITO69 has made the advancement [Best Friends Forever]
-[20:07:27] [Server thread/INFO]: biviri lost connection: Disconnected
-[20:07:27] [Server thread/INFO]: biviri left the game
-[20:07:32] [Server thread/INFO]: biviri[/100.115.59.102:64972] logged in with entity id 26577 at (6653.814080266628, 109.98721170111676, 3021.3920401518844)
-[20:07:32] [Server thread/INFO]: biviri joined the game
-[20:10:24] [Server thread/INFO]: CevITO69 has made the advancement [The Parrots and the Bats]
-[20:18:28] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[20:18:28] [Server thread/INFO]: CevITO69 left the game
-[20:21:20] [Server thread/INFO]: CevITO69[/100.75.127.87:56424] logged in with entity id 36689 at (6535.784493322685, 72.0, 2893.5573431973803)
-[20:21:20] [Server thread/INFO]: CevITO69 joined the game
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=817, y=70, z=332} jd{x=818, y=70, z=331}
-[20:30:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=73, z=332} jd{x=815, y=74, z=332}
-[20:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=72, z=2997}
-[20:34:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=74, z=332} jd{x=6362, y=135, z=2997}
-[20:59:30] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[20:59:30] [Server thread/INFO]: CevITO69 left the game
-[20:59:42] [Server thread/INFO]: CevITO69[/100.75.127.87:58686] logged in with entity id 58023 at (6362.325671433529, 136.0, 2999.247394723515)
-[20:59:42] [Server thread/INFO]: CevITO69 joined the game
-[21:00:04] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:00:04] [Server thread/INFO]: CevITO69 left the game
-[21:00:23] [Server thread/INFO]: CevITO69[/100.75.127.87:58748] logged in with entity id 58353 at (6362.649474621992, 137.0, 2996.192830892798)
-[21:00:23] [Server thread/INFO]: CevITO69 joined the game
-[21:10:59] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:10:59] [Server thread/INFO]: CevITO69 left the game
-[21:14:23] [Server thread/INFO]: CevITO69[/100.75.127.87:59375] logged in with entity id 61701 at (6361.826625516721, 156.0, 2997.756620430921)
-[21:14:23] [Server thread/INFO]: CevITO69 joined the game
-[21:21:52] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:21:52] [Server thread/INFO]: CevITO69 left the game
-[21:22:45] [Server thread/INFO]: CevITO69[/100.75.127.87:59778] logged in with entity id 64377 at (6360.808464009147, 156.0, 2996.77837510669)
-[21:22:45] [Server thread/INFO]: CevITO69 joined the game
-[21:27:32] [Server thread/INFO]: Villager cmk['Villager'/63104, l='ServerLevel[world]', x=6545.78, y=66.00, z=2902.19] died, message: 'Villager was slain by Zombie'
-[21:32:24] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:32:24] [Server thread/INFO]: CevITO69 left the game
-[21:32:40] [Server thread/INFO]: CevITO69[/100.75.127.87:60238] logged in with entity id 68114 at (6356.405251360833, 156.0, 2995.2623489294624)
-[21:32:40] [Server thread/INFO]: CevITO69 joined the game
-[21:40:12] [Server thread/INFO]: CevITO69 fell from a high place
-[21:43:08] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:43:08] [Server thread/INFO]: CevITO69 left the game
-[21:44:49] [Server thread/INFO]: CevITO69[/100.75.127.87:60796] logged in with entity id 71873 at (6360.9616415046285, 156.0625, 2996.068084973982)
-[21:44:49] [Server thread/INFO]: CevITO69 joined the game
-[21:54:03] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[21:54:03] [Server thread/INFO]: CevITO69 left the game
-[21:54:40] [Server thread/INFO]: CevITO69[/100.75.127.87:61236] logged in with entity id 75784 at (6364.208080405106, 159.0, 2999.787248855315)
-[21:54:40] [Server thread/INFO]: CevITO69 joined the game
-[22:04:44] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[22:04:44] [Server thread/INFO]: CevITO69 left the game
-[22:04:47] [Server thread/INFO]: CevITO69[/100.75.127.87:61695] logged in with entity id 80291 at (6362.112910976615, 136.0, 2997.9941977964286)
-[22:04:47] [Server thread/INFO]: CevITO69 joined the game
-[22:16:20] [Server thread/INFO]: CevITO69 lost connection: Disconnected
-[22:16:20] [Server thread/INFO]: CevITO69 left the game
-[22:16:28] [Server thread/INFO]: CevITO69[/100.75.127.87:62200] logged in with entity id 86952 at (6362.424394543697, 161.5, 2996.847467365193)
-[22:16:28] [Server thread/INFO]: CevITO69 joined the game
-[22:17:13] [Server thread/INFO]: [CevITO69: Set own game mode to Spectator Mode]
-[22:17:26] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[22:19:57] [Server thread/INFO]: [CevITO69: Set own game mode to Spectator Mode]
-[22:20:11] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[22:20:23] [Server thread/INFO]: [CevITO69: Set own game mode to Spectator Mode]
-[22:21:07] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[22:21:56] [Server thread/WARN]: CevITO69 moved wrongly!
-[22:22:20] [Server thread/INFO]: [Not Secure] <CevITO69> AS
-[22:25:24] [Server thread/INFO]: [CevITO69: Set own game mode to Spectator Mode]
-[22:26:09] [Server thread/INFO]: [CevITO69: Set own game mode to Survival Mode]
-[22:33:12] [Server thread/INFO]: biviri fell from a high place
-[22:50:37] [Server thread/INFO]: CevITO69 was doomed to fall by biviri
-[22:53:06] [Server thread/WARN]: CevITO69 moved wrongly!
-[22:53:23] [Server thread/INFO]: [CevITO69: Teleported biviri to CevITO69]
+[03:34:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:34:04] [ServerMain/INFO]: Loaded 1290 recipes
+[03:34:04] [ServerMain/INFO]: Loaded 1399 advancements
+[03:34:05] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:34:05] [Server thread/INFO]: Loading properties
+[03:34:05] [Server thread/INFO]: Default game type: SURVIVAL
+[03:34:05] [Server thread/INFO]: Generating keypair
+[03:34:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:34:05] [Server thread/INFO]: Using epoll channel type
+[03:34:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:34:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:34:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:34:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:34:05] [Server thread/INFO]: Preparing level "world"
+[03:34:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:34:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:09] [Server thread/INFO]: Time elapsed: 546 ms
+[03:34:09] [Server thread/INFO]: Done (3.384s)! For help, type "help"
+[03:34:31] [Server thread/INFO]: CoriHB[/100.118.198.84:64052] logged in with entity id 20 at (94.98061588431365, 65.0, -117.7854139437911)
+[03:34:31] [Server thread/INFO]: CoriHB joined the game
+[03:36:33] [Server thread/INFO]: biviri[/100.115.59.102:60422] logged in with entity id 1872 at (6621.4163080974495, 63.0, 2883.699999988079)
+[03:36:33] [Server thread/INFO]: biviri joined the game
+[03:38:06] [Server thread/INFO]: CoriHB was pricked to death
+[03:38:36] [Server thread/INFO]: CoriHB fell from a high place
+[03:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=72, z=-113}
+[03:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=72, z=-113}
+[03:38:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=47, y=72, z=-119}
+[03:38:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=47, y=72, z=-120}
+[03:38:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=74, z=-128}
+[03:38:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-127}
+[03:38:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=73, z=-125}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=73, z=-125}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-127}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-128}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-127}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-127}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-127}
+[03:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-127}
+[03:38:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=73, z=-139}
+[03:38:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=45, y=73, z=-140}
+[03:38:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-141}
+[03:38:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-141}
+[03:38:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=59, y=72, z=-142}
+[03:38:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=72, z=-145} jd{x=60, y=72, z=-143}
+[03:41:09] [Server thread/INFO]: CoriHB was slain by Husk
+[03:43:38] [Server thread/INFO]: CoriHB was slain by Iron Golem
+[03:43:57] [Server thread/INFO]: CoriHB was slain by Iron Golem
+[03:46:06] [Server thread/INFO]: CoriHB lost connection: Disconnected
+[03:46:06] [Server thread/INFO]: CoriHB left the game
+[03:51:20] [Server thread/INFO]: CoriHB[/100.118.198.84:64127] logged in with entity id 11345 at (-310.6110860772686, 58.0, -391.49890740549534)
+[03:51:20] [Server thread/INFO]: CoriHB joined the game
+[03:53:08] [Server thread/INFO]: Incorrect argument for command
+[03:53:08] [Server thread/INFO]: tp CoriHB Biviri\<--[HERE]
+[03:53:18] [Server thread/INFO]: Teleported CoriHB to biviri
+[03:53:47] [Server thread/INFO]: CoriHB was slain by biviri
+[03:54:05] [Server thread/INFO]: CoriHB lost connection: Disconnected
+[03:54:05] [Server thread/INFO]: CoriHB left the game
+[03:54:55] [Server thread/INFO]: CoriHB[/100.118.198.84:64155] logged in with entity id 13847 at (-250.37308449511082, 68.0, -340.0885086989337)
+[03:54:55] [Server thread/INFO]: CoriHB joined the game
+[03:55:33] [Server thread/INFO]: CevITO69[/100.75.127.87:55617] logged in with entity id 14542 at (6554.3769332573775, 70.0, 2913.8813536417274)
+[03:55:33] [Server thread/INFO]: CevITO69 joined the game
+[03:55:39] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[03:55:41] [Server thread/INFO]: CevITO69 lost connection: Disconnected
+[03:55:41] [Server thread/INFO]: CevITO69 left the game
+[04:00:26] [Server thread/INFO]: CoriHB was slain by biviri
+[04:02:19] [Server thread/INFO]: CevITO69[/100.75.127.87:55941] logged in with entity id 17329 at (6554.100911073529, 70.0, 2912.9343562471854)
+[04:02:19] [Server thread/INFO]: CevITO69 joined the game
+[04:03:23] [Server thread/INFO]: CoriHB was slain by biviri
+[04:06:30] [Server thread/INFO]: CevITO69 has made the advancement [What a Deal!]
+[04:10:24] [Server thread/INFO]: Villager cmk['Armorer'/10737, l='ServerLevel[world]', x=6576.60, y=69.00, z=2853.64] died, message: 'Armorer was slain by biviri'
+[04:11:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=775, y=45, z=354} jd{x=775, y=47, z=356}
+[04:11:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=769, y=52, z=360} jd{x=769, y=50, z=359}
+[04:11:47] [Server thread/INFO]: CoriHB was slain by biviri
+[04:15:39] [Server thread/INFO]: CoriHB was slain by biviri
+[04:15:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-132}
+[04:15:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=49, y=74, z=-131}
+[04:15:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=48, y=74, z=-131}
+[04:15:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=45, y=74, z=-130}
+[04:15:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-128}
+[04:15:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=42, y=74, z=-128}
+[04:15:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=74, z=-128}
+[04:15:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=44, y=74, z=-128}
+[04:15:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=45, y=74, z=-129}
+[04:15:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=46, y=74, z=-129}
+[04:15:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=59, y=72, z=-126}
+[04:15:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=63, y=72, z=-125}
+[04:15:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=63, y=72, z=-125}
+[04:16:19] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[04:17:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=761, y=60, z=392} jd{x=758, y=60, z=390}
+[04:17:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=749, y=60, z=388} jd{x=754, y=63, z=392}
+[04:17:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=748, y=64, z=401} jd{x=746, y=61, z=402}
+[04:23:04] [Server thread/INFO]: CoriHB was burned to a crisp while fighting CevITO69
+[04:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=41, y=74, z=-126}
+[04:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=39, y=74, z=-128}
+[04:23:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=49, y=73, z=-134}
+[04:23:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-134}
+[04:23:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=50, y=73, z=-133}
+[04:23:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-132}
+[04:23:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=51, y=73, z=-131}
+[04:23:53] [Server thread/INFO]: [CevITO69: Teleported CoriHB to biviri]
+[04:23:59] [Server thread/INFO]: [CevITO69: Teleported CoriHB to CevITO69]
