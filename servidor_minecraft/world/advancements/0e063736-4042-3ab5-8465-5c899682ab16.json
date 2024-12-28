@@ -921,9 +921,11 @@
     "criteria": {
       "minecraft:blaze": "2024-12-23 05:57:36 +0000",
       "minecraft:skeleton": "2024-12-23 04:36:19 +0000",
+      "minecraft:zombified_piglin": "2024-12-28 00:19:29 +0000",
       "minecraft:witch": "2024-12-26 03:25:52 +0000",
       "minecraft:wither_skeleton": "2024-12-23 06:03:14 +0000",
       "minecraft:husk": "2024-12-23 04:38:36 +0000",
+      "minecraft:ghast": "2024-12-28 00:22:21 +0000",
       "minecraft:ender_dragon": "2024-12-26 02:07:53 +0000",
       "minecraft:hoglin": "2024-12-23 05:56:31 +0000",
       "minecraft:shulker": "2024-12-26 02:19:47 +0000",
