@@ -2658,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-27 04:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-27 04:13:18 +0000"
@@ -2724,9 +2730,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "traded": "2024-12-27 04:06:30 +0000"
+      "has_wood_slab": "2024-12-27 04:33:50 +0000"
     },
     "done": true
   },
